@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(139, 239, 239) !important;
+}
+#form_div{
+
+    margin: 0 auto;
+    background-color: brown;
+    padding: 20px;
+    height: 400px;
+    width: 500px;
+    text-align: center;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+}
+.navbar{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.images
